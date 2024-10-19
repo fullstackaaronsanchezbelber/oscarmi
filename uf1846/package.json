@@ -1,0 +1,21 @@
+{
+  "name": "uf1846",
+  "version": "1.0.0",
+  "description": "Des de CatSalut nos han mandado implementar una app para gestionar la información sobre los pacientes de la seguridad social. Implementa los diferentes apartados. Hemos creado una aplicación usando Express, EJS y Mongoose para crear y gestionar una base de datos de los pacientes almacenada en MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
